@@ -25,7 +25,7 @@ Linux (Ubuntu):
 
 ## Notes
 
-- The example code is a simple left wall following algorithm
-- Build and run commands may be different based on your OS
-- Descriptions of all available API methods can be found at [mackorone/mms#mouse-api](https://github.com/mackorone/mms#mouse-api)
+- If you're using Windows, you may need to download and install [MinGW](http://mingw.org/wiki/Getting_Started)
 - Communication with the simulator is done via stdin/stdout, use stderr to print output
+- Descriptions of all available API methods can be found at [mackorone/mms#mouse-api](https://github.com/mackorone/mms#mouse-api)
+- The example code is a simple left wall following algorithm
